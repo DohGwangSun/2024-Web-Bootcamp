@@ -1,0 +1,23 @@
+*{
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #ff004c;
+}
+
+h2 {
+    color: #004cff;
+}
+
+.red-heading {
+    color: #ff004c;
+}
+
+#green {
+    color: #22ca44;
+}
+
+p {
+    color: #22ca44;
+}
