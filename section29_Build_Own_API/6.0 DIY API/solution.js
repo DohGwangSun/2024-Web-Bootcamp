@@ -4,7 +4,7 @@ import bodyParser from "body-parser";
 const app = express();
 const port = 3000;
 // const masterKey = "4VGP2DN-6EWM4SJ-N6FGRHV-Z3PR3TT";
-const masterKey = "87799c51-6cf8-4b46-a1b0-3af1c016ba2b";
+const masterKey = "1234";
 
 app.use(bodyParser.urlencoded({ extended: true }));
 
